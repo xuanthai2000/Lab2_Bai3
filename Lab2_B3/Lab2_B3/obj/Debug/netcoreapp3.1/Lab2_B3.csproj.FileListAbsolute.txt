@@ -1,0 +1,13 @@
+D:\MaDoc\Lab2_B3\Lab2_B3\bin\Debug\netcoreapp3.1\Lab2_B3.exe
+D:\MaDoc\Lab2_B3\Lab2_B3\bin\Debug\netcoreapp3.1\Lab2_B3.deps.json
+D:\MaDoc\Lab2_B3\Lab2_B3\bin\Debug\netcoreapp3.1\Lab2_B3.runtimeconfig.json
+D:\MaDoc\Lab2_B3\Lab2_B3\bin\Debug\netcoreapp3.1\Lab2_B3.runtimeconfig.dev.json
+D:\MaDoc\Lab2_B3\Lab2_B3\bin\Debug\netcoreapp3.1\Lab2_B3.dll
+D:\MaDoc\Lab2_B3\Lab2_B3\bin\Debug\netcoreapp3.1\Lab2_B3.pdb
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.csprojAssemblyReference.cache
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.AssemblyInfoInputs.cache
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.AssemblyInfo.cs
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.csproj.CoreCompileInputs.cache
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.dll
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.pdb
+D:\MaDoc\Lab2_B3\Lab2_B3\obj\Debug\netcoreapp3.1\Lab2_B3.genruntimeconfig.cache
